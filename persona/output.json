@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "target.pdf"
+    ],
+    "persona": "Aspiring Data Analyst",
+    "job_to_be_done": "Identify and prioritize the essential skills, tools, and concepts needed to become a data analyst within 12 months, focusing on areas like statistics, Excel, SQL, Python, and data visualization.",
+    "processing_timestamp": "2025-07-25T17:54:45"
+  },
+  "extracted_sections": [
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "page_number": 51,
+      "section_title": "Data Structures-I",
+      "importance_rank": 1
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "page_number": 52,
+      "section_title": "Textbooks \n \n1.Brassard & Bratley, \u2015Fundamentals of Algorithmics\u2016, Prentice Hall India/Pearson Education,   \n   ISBN 13-9788120311312. \n2.Horowitz and Sahani, \u2015Fundamentals of Data Structures in C++\u2016, University Press, ISBN 10:   \n   0716782928 ISBN 13: 9780716782926. \n3.Goodrich, Tamassia, Goldwasser, \u2015Data Structures and Algorithms in C++\u2016, Wiley   \n   publication, ISBN-978-81-265-1260-7 \n4.Data Structure and Algorithmic Thinking with Python, CareerMonk Publications, Narasimha   \n   Karumanchi, 2016 \n \nReference Books \n1. Richard F Gilberg& Behrouz A Forouzan, Data Structures (A Pseudocode Approach with C),   \nsecond edition, Cengage Learning, 2004 \n2. PAI, Data Structures, Tata McGraw-Hill Education, 2008 \n3. Mayank Patel, Data Structure and Algorithm With C, Edu creation Publishing, 2018 \n4. Thomas H. Cormen, Charles E Leiserson, Ronald L Rivest, Clifford Stein, Introduction to \nAlgorithms, MIT Press, 2001. \n \nList of Assignments: \n1. Study assignment on programming IDE Tools. \n2. Write a program to implement one dimensional array. \n3.Write a program to design tic-tac-toe game \n4. Write a program to perform basic operation on stack.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "page_number": 16,
+      "section_title": "Total \n9 \n12 \n1 \n180 \n120 \n250 \n50 150 \n750 \n9 \n12 \n1 \n22",
+      "importance_rank": 3
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "page_number": 34,
+      "section_title": "Unit IV Functions and User Defined Data Types and Variables",
+      "importance_rank": 4
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "page_number": 54,
+      "section_title": "Tutorial :- 00 Hours/ Week \nTerm Work  \n50 Marks \n \n \n \n \n \n \nTotal    \n50 Marks \n                 01 \nCourse Prerequisites: - \nStudents should have knowledge of Basic English grammar. \nStudents should have basic information of sound system of English \nlanguage. \nCourse Objective \nThe course objective of Communication Skills puts the following \nclass teaching objectives, considering English Language skills as a \nwheel rolling aspect in today\u2019s world, the focus is on honing the \nskills such as LSRW and presentation skills. It also puts emphasis \non technical and professional writing skills. Honing the presentation \nskills among students through appropriate activities, this will help \nthem in their business ventures. \nCourse Outcomes: -  \nAfter completion of the course students will be able to",
+      "importance_rank": 5
+    },
+    {
+      "document": "target.pdf",
+      "page_number": 3,
+      "section_title": "Python\t\n \n12",
+      "importance_rank": 1
+    },
+    {
+      "document": "target.pdf",
+      "page_number": 12,
+      "section_title": "Data Analyst Roadmap\n12",
+      "importance_rank": 2
+    },
+    {
+      "document": "target.pdf",
+      "page_number": 17,
+      "section_title": "Data Visualization",
+      "importance_rank": 3
+    },
+    {
+      "document": "target.pdf",
+      "page_number": 1,
+      "section_title": "Go From Zero to a Data Analyst in 12 Months",
+      "importance_rank": 4
+    },
+    {
+      "document": "target.pdf",
+      "page_number": 5,
+      "section_title": "Data Visualization\n1-2 months\nIntermediate",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "4.Data Structure and Algorithmic Thinking with Python, CareerMonk Publications, Narasimha",
+      "page_number": 52
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "1. Study assignment on programming IDE Tools.",
+      "page_number": 52
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "3.Goodrich, Tamassia, Goldwasser, \u2015Data Structures and Algorithms in C++\u2016, Wiley",
+      "page_number": 52
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "Unit IV Functions and User Defined Data Types and Variables",
+      "page_number": 34
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "skills such as LSRW and presentation skills. It also puts emphasis",
+      "page_number": 54
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "skills among students through appropriate activities, this will help",
+      "page_number": 54
+    },
+    {
+      "document": "Computer 2023 Structure & First Year Syllabus 26-7-23 Final.pdf",
+      "refined_text": "The course objective of Communication Skills puts the following",
+      "page_number": 54
+    },
+    {
+      "document": "target.pdf",
+      "refined_text": "Go From Zero to a Data Analyst in 12 Months",
+      "page_number": 1
+    }
+  ]
+}
